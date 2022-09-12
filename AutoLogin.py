@@ -2,8 +2,8 @@
 # -*-coding:utf-8-*-
 import requests
 
-USERNAME = '20207110036'#学号
-PASSWORD = '0226'#密码
+USERNAME = '20207xxx6'#学号
+PASSWORD = '02xx'#密码
 SERVICE = r''#留空
 CAPTIVE_SERVER = r'http://www.google.cn/generate_204'
 
